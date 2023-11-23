@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main { 
+    width: 100%; 
+    height: 100vh; 
+    background-image: url(https://mddanish18.github.io/can-project/a18.jpg); 
+    background-size: cover; 
+    background-position: center;
+} 
+
+.main span  { 
+    font-size: 30px; 
+    color: white; 
+    position: relative; 
+    top: 10px; 
+    left: 10px;
+} 
+
+.main h1  { 
+    text-align: center; 
+    color: white; 
+    font-size: 2.5625rem; 
+    margin-top: 90px;
+} 
+
+.theblock { 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+} 
+
+.box { 
+    margin-top: 60px; 
+    width: 350px; 
+    height: 300px; 
+    border: 3px solid white; 
+    background-color: black; 
+    border-radius: 10px; 
+    color: white;
+} 
+
+.title { 
+    text-align: center; 
+    font-size: 20px; 
+    margin: 50px;
+} 
+.content-text { 
+    text-align: center; 
+    line-height: 1.240;
+} 
+
+.btn { 
+    padding-top: 0.4cm;
+    width: 4cm; 
+    height: 1cm;
+    position: relative; 
+    top: 50px; 
+    text-align: center; 
+    margin-top: 70px; 
+    border: 3px solid white; 
+    border-radius: 10px; 
+    cursor: pointer; 
+    margin: 10px; 
+    margin-left: 87px;
+} 
+
+.btn:hover { 
+    background: blue;
+} 
+
+.btn a  { 
+    text-decoration: none; 
+    color: white;
+} 
+.container{
+    background-color: black;
+    height: 300px;
+    width: 200px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 3px solid #ccc;
+    border-radius: 15px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.nextp{
+    font-family: Roboto, sans-serif;
+    font-size: 32px;
+    text-align: center;
+    margin-top: 3%;
+    vertical-align:baseline;
+    letter-spacing:normal
+    /*word-spacing: 0px;*/
+    
+
+}
+.mybutton{
+    width: 4cm;
+    height: 1cm;
+    background-color: #000;
+    color: #fff;
+    font-size: 14px;
+    
+    border-radius: 8px
+}
+.flex-container{
+    margin-top: 1.5cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+}
+.bg-icon_1{
+    text-align: center;
+}
+.bg-icon_2{
+    text-align: center;
+}
+.bg-icon_3{
+    text-align: center;
+}
+
+.item1{
+    font-family: "Open Sans", sans-serif;
+    font-size: 17px;
+    margin-right: 1cm;
+    box-shadow: 0 3px 14.25px .75px rgba(19,31,21,.11); 
+    width: 8cm; 
+    height: 7cm;
+    border: 1px solid #ebebeb; 
+    border-radius: 10px; 
+    background-color: #fff; 
+    font-style:normal;
+    text-align: center;
+
+    
+
+}
+
+.item2{
+    font-family: "Open Sans", sans-serif;
+    font-size: 17px;
+    box-shadow: 0 3px 14.25px .75px rgba(19,31,21,.11); 
+    border: 1px solid #ebebeb; 
+    border-radius: 10px; 
+    background-color: #fff; 
+    width: 8cm; 
+    height: 6.5cm;
+    font-style:normal;
+    text-align: center;
+
+}
+.item3{
+    font-family: "Open Sans", sans-serif;
+    font-size: 17px;
+    margin-right: 1cm;
+    box-shadow: 0 3px 14.25px .75px rgba(19,31,21,.11); 
+    width: 8cm; 
+    height: 7cm;
+    border: 1px solid #ebebeb; 
+    border-radius: 10px; 
+    background-color: #fff; 
+    font-style:normal;
+    text-align: center;
+
+}
+.block_text{
+    margin-top: 1cm;
+}
+
