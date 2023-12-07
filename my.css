@@ -129,8 +129,7 @@
     font-size: 17px;
     margin-right: 1cm;
     box-shadow: 0 3px 14.25px .75px rgba(19,31,21,.11); 
-    width: 8cm; 
-    height: 7cm;
+    box-sizing:border-box;
     border: 1px solid #ebebeb; 
     border-radius: 10px; 
     background-color: #fff; 
@@ -148,8 +147,7 @@
     border: 1px solid #ebebeb; 
     border-radius: 10px; 
     background-color: #fff; 
-    width: 8cm; 
-    height: 6.5cm;
+    box-sizing:border-box;
     font-style:normal;
     text-align: center;
 
@@ -159,8 +157,7 @@
     font-size: 17px;
     margin-right: 1cm;
     box-shadow: 0 3px 14.25px .75px rgba(19,31,21,.11); 
-    width: 8cm; 
-    height: 7cm;
+    box-sizing:border-box;
     border: 1px solid #ebebeb; 
     border-radius: 10px; 
     background-color: #fff; 
